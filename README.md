@@ -16,7 +16,7 @@ Paul Brichta
 ### Part 3: Perform a Cluster Analysis with K-means
 Create an elbow plot to identify the best number of clusters. Make sure to do the following:
 - Use a ```for``` loop to determine the inertia for each ```k``` between 1 through 10.
-- If possible, determine where the elbow of the plot is, and at which value of k it appears.
+- If possible, determine where the elbow of the plot is, and at which value of ```k``` it appears.
 
 Part 4: Make a Recommendation
 Based on your findings, write up a brief (one or two sentences) recommendation for your supervisor in your Jupyter Notebook. Can the patients be clustered? If so, into how many clusters?
